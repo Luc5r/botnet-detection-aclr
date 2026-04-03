@@ -98,9 +98,25 @@ graph TD
 
 ## 🚀 How to Run
 
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Luc5r/botnet-detection-aclr.git
+cd botnet-detection-aclr
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the project
+
 ```bash
 python frontend.py
 ```
+
 
 ---
 
