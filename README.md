@@ -32,22 +32,27 @@ A **stacked hybrid model (ACLR)** combining:
 
 ## 🏗️ Architecture
 
+### 📷 Diagram
+
+![Architecture](architecture.png)
+
+### 🔄 Flow Representation
+
 ```mermaid
 graph TD
     A[Network Traffic Input]
-
     A --> B[ANN]
     A --> C[CNN]
     A --> D[LSTM]
     A --> E[RNN]
 
-    B --> F[Stacking Layer ACLR]
+    B --> F[ACLR Stacking Layer]
     C --> F
     D --> F
     E --> F
 
     F --> G[Final Prediction]
-    G --> H[Botnet / Normal]
+    G --> H[Botnet or Normal]
 ```
 
 ---
