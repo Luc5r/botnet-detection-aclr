@@ -138,21 +138,38 @@ python frontend.py
 
 ---
 
+
 ## 🔮 Future Work
 
 * Real-time deployment
 * Integration with IDS systems
-* Lightweight model optimization
+* Lightweight optimization
 
 ---
 
+## 📄 Publication
+
+**Title:** Enhancing IoT Security: Hybrid Machine Learning for Detection of Botnet Attacks
+
+🔗 https://www.ijraset.com/print-certificate/enhancing-iot-security-hybrid-machine-learning-for-detection-of-botnet-attacks
+
+---
+
+## 👨‍💻 Contributors
+
+This project was collaboratively developed by a team of four members as part of a final year research project.
+
+Each member contributed to different stages including data preprocessing, model development, training, and evaluation.
+
+---
 ## 👨‍💻 Author
 
 **Satya Sai**
 B.Tech Computer Science and Engineering (Cyber Security)
 
----
-
 ## 📌 Note
 
 Large dataset and model files are managed using Git LFS due to GitHub size limitations.
+
+
+---
